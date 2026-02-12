@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 import { FC, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import { HeadsetIcon } from "../assets/icons/icon.tsx";
-import { backgroundColour, accentColour, headerGradient } from "../css-helpers/defaults.ts";
+import { accentColour, headerGradient } from "../css-helpers/defaults.ts";
 import { useGlobalState } from "../global-state/context-provider.tsx";
 import { useAudioCue } from "./production-line/use-audio-cue.ts";
 import { ConfirmationModal } from "./verify-decision/confirmation-modal.tsx";

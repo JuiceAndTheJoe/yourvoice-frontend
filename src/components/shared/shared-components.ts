@@ -6,7 +6,6 @@ import {
   cardShadow,
   borderAccentColour,
   accentColour,
-  backgroundLightColour,
 } from "../../css-helpers/defaults";
 
 export const HeaderWrapper = styled.div`

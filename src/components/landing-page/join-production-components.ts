@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { darkText, errorColour, accentColour, errorLightColour } from "../../css-helpers/defaults.ts";
+import { darkText, errorColour, errorLightColour } from "../../css-helpers/defaults.ts";
 
 export const NameWrapper = styled.div`
   display: flex;

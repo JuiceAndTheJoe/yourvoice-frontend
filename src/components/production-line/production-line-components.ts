@@ -12,13 +12,9 @@ import {
 } from "../shared/shared-components";
 import {
   accentColour,
-  successColour,
   successLightColour,
-  errorColour,
   errorLightColour,
   cardGradient,
-  cardShadow,
-  backgroundAltColour,
 } from "../../css-helpers/defaults";
 
 export const CallInfo = styled.div`

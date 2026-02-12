@@ -4,7 +4,6 @@ import {
   accentLightColour,
   accentDarkColour,
   backgroundLightColour,
-  backgroundAltColour,
   borderAccentColour,
   errorColour,
   warningColour,
